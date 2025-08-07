@@ -20,7 +20,7 @@
 
 <!-- ========= Hero / About ========= -->
 <a id="about"></a>
-##About Me
+## About Me
 _Ph.D. Candidate, LFCS, School of Informatics, University of Edinburgh_
 
 <div class="about-wrapper">
