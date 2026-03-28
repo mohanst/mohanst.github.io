@@ -1,9 +1,16 @@
+---
+layout: single
+# title: "Research"
+permalink: /research/
+author_profile: true
+---
 <!-- ========= Research Interests ========= -->
 <a id=research> </a>
 ## Research Interests
-- Strategy synthesis in stochastic games  
-- Quantitative objectives
-- Verification of dynamical systems  
+- Equilibria and Learning
+- Path following algorithms
+- Strategy synthesis in stochastic games
+- Verification of dynamical systems
 - Connections to reinforcement learning
 
 <!-- ========= Publications ========= -->

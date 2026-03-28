@@ -3,8 +3,10 @@
 # -----------------------------
 remote_theme: "mmistakes/minimal-mistakes"   # later: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default"
-title       : "Mohan Sai Teja Dantam"
-description : "Ph.D. Student · LFCS · University of Edinburgh"
+title       : "Home"
+# subtitle    : "Postdoc @ Oxford"
+masthead_title: "Home"
+description : "Postdoc · University of Oxford"
 show_downloads: false        # Slate option → hides auto GitHub buttons
 
 # -----------------------------
@@ -27,12 +29,12 @@ author:
   name             : "Mohan sai teja Dantam"
   # avatar           : "/assets/images/me_0.jpg"
   bio              : ""
-  location         : "Edinburgh"
+  location         : "Oxford"
   # email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mohan.dantam@ed.ac.uk"
+      url: "mailto:mohan.dantam@cs.ox.ac.uk"
       target: "_blank"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -61,3 +63,17 @@ collections: []     # keeps GitHub-Pages “safe mode” happy
 include:
 - .htaccess
 - _pages
+
+exclude:
+  - Resume_All
+  - vendor
+  - .bundle
+  - .jekyll-cache
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

@@ -1,12 +1,8 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: /#about
+    url: /about/
   - title: "Research"
-    url: /#research
-  - title: "TA Experience"
-    url: /#tutoring
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/

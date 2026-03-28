@@ -1,3 +1,9 @@
+---
+layout: single
+# title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
 <!-- ========= Teaching ========= -->
 <a id=tutoring> </a>
 ## Tutor Experience
