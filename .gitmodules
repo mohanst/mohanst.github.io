@@ -1,0 +1,3 @@
+[submodule "Resume_All"]
+	path = Resume_All
+	url = git@github.com:mohanst/Resume_All.git
