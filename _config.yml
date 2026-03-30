@@ -4,7 +4,6 @@
 remote_theme: "mmistakes/minimal-mistakes"   # later: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default"
 title       : "Home"
-# subtitle    : "Postdoc @ Oxford"
 masthead_title: "Home"
 description : "Postdoc · University of Oxford"
 show_downloads: false        # Slate option → hides auto GitHub buttons
@@ -50,7 +49,7 @@ author:
       target: "_blank"
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/cv/cv.pdf"
+      url: "/assets/cv/cv.pdf"
       target: "_blank"
 
 # Optional analytics placeholder (works in both themes)
@@ -63,7 +62,6 @@ collections: []     # keeps GitHub-Pages “safe mode” happy
 include:
 - .htaccess
 - _pages
-
 exclude:
   - Resume_All
   - vendor
